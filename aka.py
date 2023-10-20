@@ -1,1 +1,2 @@
 print("labrīt!")
+# komentārs
